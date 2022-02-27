@@ -113,3 +113,8 @@ subject.subscribe((x) => console.log('C: ' + x))
 subject.next(6)
 subject.next(7)
 subject.complete()
+
+
+
+
+
